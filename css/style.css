@@ -65,13 +65,13 @@ body {
 
 /* NAVBAR */
 .navbar {
-  background-color: #8f0000;
+  background-color: #043fc9;
   height: 80px;
   color: rgb(255, 255, 255);
 }
 
 .dropdown-menu {
-  background-color: #8f0000;
+  background-color: #043fc9;
   width: 100%;
 }
 
@@ -359,7 +359,7 @@ input[type="password"],
 
 /* FOOTER */
 .footer {
-  background: #8f0000;
+  background: #043fc9;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -410,7 +410,7 @@ input[type="password"],
   border-radius: 50%;
   font-size: 2rem;
   font-weight: bold;
-  background-color: #8f0000;
+  background-color: #2495ff;
   color: white;
   outline: 0;
   border: 0;
